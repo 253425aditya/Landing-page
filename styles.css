@@ -108,3 +108,29 @@ p{
     color: black;
     font-weight:100;
 }
+
+/* section three */
+.section-three{
+    background: #E5E7EB;
+}
+
+.section-three-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.kaka{
+    width: 830px;
+    padding-top: 8rem;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 100;
+}
+.how{
+    color: black;
+    font-weight: bold;
+    align-self: flex-end;
+    margin-right: 300px;
+}
