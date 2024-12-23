@@ -134,3 +134,37 @@ p{
     align-self: flex-end;
     margin-right: 300px;
 }
+
+/*section four */
+.section-four{
+    background: white;
+    height: 300px;
+    width: 100vw;
+}
+
+.section-four-wrapper{
+    width: 60vw;
+    margin: 0 auto;
+    padding-top: 20px;
+    color: white;  
+}
+pre{
+    margin-top: 12px;
+    align-self: center;
+}
+.why{
+    margin-top: 90px;
+    align-self: center;
+    background: #034ec7;
+    border-radius: 5px;
+    padding: 15px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hihihi{
+    border-width: 10px;
+    border: solid white;
+    background: #034ec7;
+}
