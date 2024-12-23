@@ -64,7 +64,7 @@ h1{
 
 img{
     margin-top: 60px;
-    height: 200px;
+    height: 210px;
 }
 
 .left{
@@ -167,4 +167,15 @@ pre{
     border-width: 10px;
     border: solid white;
     background: #034ec7;
+}
+.section-five{
+    background: #1f2937;
+    height: 60px;
+    color: white;
+    text-align: center;
+}
+
+.lmao{
+    padding-top: 25px;
+    font-size: small;
 }
